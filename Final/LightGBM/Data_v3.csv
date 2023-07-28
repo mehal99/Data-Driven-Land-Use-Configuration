@@ -1,0 +1,332 @@
+﻿,place_name,place_ID,latitude,Longitude,plus_code,rating,user_ratings_total,business_status,types,address,region,population,num_bus_stop,num_mall
+0,NTU North Spine Plaza,ChIJ-f-vxgoP2jERP42l8kUV8DE,1.347064,103.6808217,8MWJ+R8 Singapore,4.3,1070,OPERATIONAL,shopping_mall,"76 Nanyang Dr, Singapore 637331",Western Water Catchment,,18,0
+1,Orchard Towers,ChIJ-z0z0IwZ2jERXjOtNGbV0-0,1.3072293,103.8293323,8R4H+VP Singapore,3.9,2292,OPERATIONAL,shopping_mall,"400 Orchard Rd, Singapore 238875",Orchard,920,7,13
+2,Quayside Isle,ChIJ01fgzLUe2jERxlhvImcbZ7g,1.2476808,103.8420723,6RXR+3R Singapore,4.3,568,OPERATIONAL,shopping_mall,"31 Ocean Way, Singapore 098375",Southern Islands,1480,1,0
+3,Coronation Shopping Plaza,ChIJ08duKAYa2jER47-5U4ZdgAo,1.3239187,103.8099886,8RF5+HX Singapore,3.6,202,OPERATIONAL,shopping_mall,"587 Bukit Timah Rd, Singapore 269707",Bukit Timah,74470,7,4
+4,Hougang 1,ChIJ0ZkQLVsW2jERY9DgZurtpl8,1.3760614,103.8791547,9VGH+CM Singapore,3.9,2183,OPERATIONAL,shopping_mall,"1 Hougang Street 91, Singapore 538692",Hougang,222310,0,0
+5,Greenwich V,ChIJ1-hkimEW2jERyc5cKHfC3Sw,1.3873705,103.8694069,9VP9+WQ Singapore,3.8,1304,OPERATIONAL,shopping_mall,"1 Seletar Rd, Singapore 807011",Serangoon,120670,0,0
+6,Clarke Quay The Central,ChIJ18C-mwoZ2jERlpSawcucgk0,1.2890252,103.8466098,7RQW+JJ Singapore,4.2,8552,OPERATIONAL,shopping_mall,"6 Eu Tong Sen St, Singapore 059817",Singapore River,2720,18,8
+7,Sime Darby Centre,ChIJ1S4qfY8Q2jERgb68gskzUbo,1.3366443,103.7835965,8QPM+MC Singapore,3.7,437,OPERATIONAL,shopping_mall,"896 Dunearn Rd, Singapore 589472",Bukit Timah,74470,0,1
+8,Heartland Mall,ChIJ1V9s-bMX2jERQL59mMdHw7I,1.359469,103.8851289,9V5P+Q3 Singapore,3.8,4438,OPERATIONAL,shopping_mall,"205 Hougang Street 21, Singapore 530204",Hougang,222310,10,0
+9,PoMo,ChIJ1ZAIkrwZ2jERxtZGC1JnrHM,1.3001917,103.84922,8R2X+3M Singapore,3.8,1285,OPERATIONAL,shopping_mall,"1 Selegie Rd, Singapore 188306",Rochor,14590,13,9
+10,LR boulangerie,ChIJ1ZYJOiAZ2jER1mvQqHstQII,1.2931776,103.8271938,7RVG+7V Singapore,4.3,12,OPERATIONAL,shopping_mall,"491 River Valley Rd, #01-02 valley point shopping center, Singapore 248371",Tanglin,,4,1
+11,UE Square,ChIJ1aJWIZ8Z2jERTCHI96-9fNQ,1.2921679,103.8426697,7RRV+V3 Singapore,3.8,1077,OPERATIONAL,shopping_mall,"81 Clemenceau Ave, Singapore 239917",Singapore River,2720,19,1
+12,Suntec City,ChIJ20X__K4Z2jERRE8GRs-d8HE,1.29503,103.8583026,7VW5+28 Singapore,4.4,19934,OPERATIONAL,shopping_mall,"3 Temasek Blvd, Singapore 038983",Downtown Core,3720,18,3
+13,Parkway Parade,ChIJ2WUXmnEY2jERoGOSkJVgnrY,1.3013366,103.9052333,8W24+G3 Singapore,4.3,6234,OPERATIONAL,shopping_mall,"80 Marine Parade Rd, Singapore 449269",Marine Parade,,6,1
+14,Tampines Hub,ChIJ2Y1DYBI92jERlFUKKSznJrY,1.3531079,103.9403612,9W3R+64 Singapore,4.6,227,OPERATIONAL,shopping_mall,"1 Tampines Walk, Singapore 528523",Tampines,261230,0,5
+15,Djitsun Mall,ChIJ2fIgLeYW2jERNAscVQ4Y-Do,1.3728179,103.8476889,9RFX+43 Singapore,3.5,876,OPERATIONAL,shopping_mall,"5 Ang Mo Kio Central 2, Singapore 569663",Ang Mo Kio,174770,4,3
+16,City Plaza,ChIJ34RyshcY2jERneNcLqsPK3o,1.3147644,103.893408,8V7V+W9 Singapore,3.8,1880,OPERATIONAL,shopping_mall,"810 Geylang Rd, Singapore 409286",Geylang,116960,10,6
+17,Sultan Plaza,ChIJ38pFVLEZ2jER0bD640NeLqs,1.3030927,103.8619342,8V36+6Q Singapore,3.6,691,OPERATIONAL,shopping_mall,"100 Jln Sultan, Singapore 199001",Kallang,101210,11,7
+18,N4 Neighbourhood Centre,ChIJ3ShIxCc92jER20y0Rvqw-vc,1.3605239,103.9531662,9X63+67 Singapore,4.2,137,OPERATIONAL,shopping_mall,"Tampines Street 43, Singapore 520477",Tampines,261230,2,0
+19,Second Avenue Junction,ChIJ3Wd2xqEQ2jERF5qZP76srqY,1.3298712,103.7996164,8QHX+WR Singapore,3.7,27,OPERATIONAL,shopping_mall,"Bukit Timah Rd, 733, Singapore 269748",Bukit Timah,74470,10,0
+20,HillV2,ChIJ3Zrkj1IQ2jER7alm3mrpVPQ,1.363354,103.7643204,9Q77+8P Singapore,4,1719,OPERATIONAL,shopping_mall,"4 Hillview Rise, Singapore 667979",Bukit Batok,139270,11,0
+21,Bluestarmobiles.com,ChIJ3bgnoTE92jER9pU0y9B6pmc,1.3318464,103.9463496,8WJW+PG Singapore,3.8,745,OPERATIONAL,shopping_mall,"430 Upper Changi Rd, #01-50 East Village, Singapore 487048",Bedok,289750,0,1
+22,Guillemard Village,ChIJ4VaNqjkY2jER6ablrvwx_As,1.3099872,103.8823103,8V5J+XW Singapore,4.3,21,OPERATIONAL,shopping_mall,"102 Guillemard Rd, Singapore 399719",Geylang,116960,0,0
+23,Takashimaya S.C.,ChIJ4aA30ZYZ2jERINQYq_MPMh0,1.3027299,103.834317,8R3M+3P Singapore,4.1,33,OPERATIONAL,shopping_mall,"391 Orchard Rd, Singapore 238801",Orchard,920,19,20
+24,Concorde Shopping Centre,ChIJ4bL843cZ2jERhSL8S89qqu4,1.2892149,103.8343992,7RQM+MQ Singapore,3.9,544,OPERATIONAL,shopping_mall,"317 Outram Rd, Singapore 169075",Bukit Merah,,9,1
+25,Snsexpress Shop,ChIJ4xNBVeoB2jERKa-WgAPBBho,1.2462335,103.6146199,6JW7+FR Singapore,4.3,9,OPERATIONAL,shopping_mall,"90 Tuas S Blvd, Singapore 637052",Tuas,,0,0
+26,Sembawang Shopping Centre,ChIJ5-zrBoEU2jERhLnuZ0bgvUw,1.4419459,103.8250936,CRRG+Q2 Singapore,4,3789,OPERATIONAL,shopping_mall,"604 Sembawang Rd, Singapore 758459",Sembawang,76530,3,0
+27,Sree Beauty & Bridal Services,ChIJ58WuUbwP2jERmHrSoc33hp4,1.3488912,103.6976302,8MXX+H3 Singapore,3.9,1170,OPERATIONAL,shopping_mall,"Gek Poh shopping centre Blk, 762 Jurong West Street 75, spore 640762",Jurong West,272660,9,0
+28,NEWest,ChIJ58zgd34b2jERDEawXFNpWOE,1.3164853,103.7573965,8Q84+HX Singapore,3.7,121,OPERATIONAL,shopping_mall,"1 W Coast Dr, Newest, Singapore 128021",Clementi,91630,18,0
+29,HarbourFront Centre,ChIJ5Qx1aOIb2jERwQsRlRdHaWM,1.2645769,103.8203787,7R7C+R5 Singapore,4.3,5243,OPERATIONAL,shopping_mall,"1 Maritime Square, Singapore 099253",Bukit Merah,,0,3
+30,Toa Payoh Mall,ChIJ5Rryfx0X2jERqvS-qax1mgE,1.3327308,103.8492213,8RMX+3M Singapore,4.1,3199,OPERATIONAL,shopping_mall,"185 Toa Payoh Central, Singapore 310185",Toa Payoh,124940,9,0
+31,Midpoint Orchard,ChIJ5SdSMZEZ2jERl25VbE5H6UE,1.3015694,103.8386083,8R2Q+JC Singapore,3.8,586,OPERATIONAL,shopping_mall,"220 Orchard Rd, Singapore 238852",Orchard,920,18,18
+32,Waterloo Centre,ChIJ5b9USLsZ2jERLHiICrHNYfY,1.2988808,103.8520151,7VX2+HR Singapore,3.8,298,OPERATIONAL,shopping_mall,"261 Waterloo St, Singapore 180261",Rochor,14590,12,14
+33,Pioneer Mall,ChIJ67mVKpcP2jERmahUvC-ZIwc,1.3421413,103.6974182,8MRW+VX Singapore,3.9,1704,OPERATIONAL,shopping_mall,"638 Jurong West Street 61, 61, Singapore 640638",Jurong West,272660,22,0
+34,Tampines Central Shopping Street,ChIJ6Su1ag492jERIaHBpB7hOjA,1.3556772,103.9452237,9W4W+73 Singapore,4.2,409,OPERATIONAL,shopping_mall,"504 Tampines Central 1, Singapore 520504",Tampines,261230,0,4
+35,Lucky Plaza,ChIJ6xFibZIZ2jERlMTu3Bo6a9c,1.3045456,103.8339449,8R3M+RH Singapore,4,12639,OPERATIONAL,shopping_mall,"304 Orchard Rd, Singapore 238863",Orchard,920,16,17
+36,Orchard Shopping Center,ChIJ777jJQoZ2jERUSqAyBp_F2Y,1.3015019,103.8378442,8R2Q+J4 Singapore,4.1,52,OPERATIONAL,shopping_mall,"321 Orchard Rd, Singapore 238866",Orchard,920,19,19
+37,Beauty World Plaza,ChIJ78vtZqkR2jERKX0SUR60iGA,1.3418536,103.7761747,8QRG+PF Singapore,3.8,228,OPERATIONAL,shopping_mall,"140 Upper Bukit Timah Rd, Singapore 588176",Bukit Timah,74470,2,2
+38,The Poiz Centre,ChIJ7ZKbbFUX2jERrjBRAy48RVI,1.3312349,103.8681859,8VJ9+F7 Singapore,4.1,84,OPERATIONAL,shopping_mall,"51 Upper Serangoon Rd, #01 - 27 THE POIZ CENTRE, Singapore 347697",Potong Pasir,12650,0,1
+39,UNO Premier Singapore,ChIJ7dsyn5YZ2jERJyGBozOA-6o,1.3028163,103.8400479,8R3R+42 Singapore,4,16,OPERATIONAL,shopping_mall,"51 Cuppage Rd, Singapore 229469",Newton,6920,18,15
+40,Eastpoint Mall,ChIJ7egDUyI92jERegSiojEDekc,1.3427145,103.9530415,8XV3+36 Singapore,4,5456,OPERATIONAL,shopping_mall,"3 Simei Street 6, Singapore 528833",Tampines,261230,6,0
+41,Sentosa Station Ticketing,ChIJ7wmqr1gZ2jERbXnj1LC2Mec,1.2636519,103.8230065,7R7F+F6 Singapore,3.9,13,OPERATIONAL,shopping_mall,"113, 01-112/113 Telok Blangah Rd, Singapore 098585",Bukit Merah,,0,2
+42,Westgate,ChIJ82AoVA8Q2jERkHnr1RPW9B4,1.3345013,103.7426077,8PMV+R2 Singapore,4.3,10564,OPERATIONAL,shopping_mall,"3 Gateway Dr, Singapore 608532",Jurong East,84980,12,5
+43,Sunshine Place,ChIJ83fjadsR2jERGC3nsNM2g7s,1.3780144,103.739185,9PHQ+6M Singapore,3.8,1131,OPERATIONAL,shopping_mall,"475 Choa Chu Kang Ave 3, Singapore 680475",Choa Chu Kang,174330,4,0
+44,Tampines Mall,ChIJ89lf6hE92jERQXt7c5QOFnY,1.3524936,103.9447179,9W2V+XV Singapore,4.3,10732,OPERATIONAL,shopping_mall,"4 Tampines Central 5, Singapore 529510",Tampines,261230,0,6
+45,Peninsula Plaza Singapore,ChIJ8RANNaEZ2jERocv_-XL9ceQ,1.292485,103.85086,7VR2+X8 Singapore,3.9,361,OPERATIONAL,shopping_mall,"111 North Bridge Rd, Singapore 179098",Downtown Core,3720,13,5
+46,Sunshine plaza,ChIJ8SlfersZ2jERBFr9KkRI4oA,1.3003949,103.8509274,8V22+59 Singapore,3.9,775,OPERATIONAL,shopping_mall,"91 Bencoolen St, Singapore 189652",Rochor,14590,10,13
+47,E!Hub @ Downtown East,ChIJ8SnE3rM92jERO9uVIxvDqTk,1.3764492,103.9558526,9XG4+H8 Singapore,4.3,1005,OPERATIONAL,shopping_mall,"1 Pasir Ris Cl, Singapore 519599",Pasir Ris,139890,5,2
+48,The Star Vista,ChIJ91hVlEIa2jERm_cxYZ2WKow,1.3068072,103.7883997,8Q4Q+P9 Singapore,4.2,6269,OPERATIONAL,shopping_mall,"1 Vista Exchange Green, Singapore 138617",Queenstown,98050,15,1
+49,Depot Heights Shopping Centre,ChIJ99UkHtAb2jER-8eKrjNm_nQ,1.2812742,103.8099871,7RJ5+GX Singapore,3.6,544,OPERATIONAL,shopping_mall,"108 Depot Rd, Singapore 100108",Bukit Merah,,1,0
+50,Northpoint City,ChIJ9RT-5DYV2jERKbQXNwU4m6A,1.4279686,103.8364152,CRHP+5H Singapore,4.3,9876,OPERATIONAL,shopping_mall,"930 Yishun Ave 2, Singapore 769098",Yishun,201970,7,4
+51,Marina Square,ChIJ9UKUtjsZ2jER-VszUURb3LI,1.2911534,103.8576778,7VR5+F3 Singapore,4.3,13389,OPERATIONAL,shopping_mall,"6 Raffles Blvd, Marina Square, Singapore 039594",Downtown Core,3720,20,4
+52,Jem Play Ground,ChIJ9ZP56zkR2jERxb8cBhvJLq4,1.3330285,103.7432048,8PMV+67 Singapore,4.5,15,OPERATIONAL,shopping_mall,"50 Jurong Gateway Rd, Singapore 608549",Jurong East,84980,12,5
+53,ICB shopping Centre,ChIJ9w0kiK8X2jERloCYFp1bnwE,1.3546245,103.877831,9V3H+R4 Singapore,3.1,32,OPERATIONAL,shopping_mall,"6 Yio Chu Kang Rd, Singapore 545521",Hougang,222310,7,1
+54,Woodlands Neighbourhood 3 Centre,ChIJA2SGu1IS2jERIK7uAEVAPHk,1.4297386,103.7742314,CQHF+VM Singapore,4.1,189,OPERATIONAL,shopping_mall,"1 Woodlands Street 31, Singapore 738581",Woodlands,250290,1,0
+55,Claymore Connect,ChIJA2UPtIwZ2jERL6-px_QTr64,1.3074912,103.828781,8R4H+XG Singapore,4,1012,OPERATIONAL,shopping_mall,"442 Orchard Rd, Singapore 238879",Orchard,920,8,12
+56,HAQ Warehouse,ChIJA9lVX8AF2jERJkcU5OBZuh0,1.3065159,103.6576395,8M45+J3 Singapore,4.1,18,OPERATIONAL,shopping_mall,"28D Pioneer Sector 2, Singapore 628407",Pioneer,100,9,0
+57,Wisteria Mall,ChIJAQAQzRQU2jERLmj7diPcCTI,1.4180753,103.8407518,CR9R+68 Singapore,3.9,782,OPERATIONAL,shopping_mall,"598 Yishun Ring Rd, Singapore 768698",Yishun,201970,0,0
+58,Macpherson Mall,ChIJAS_k8IUX2jERcOBBbaPXkg4,1.3317617,103.8791809,8VJH+PM Singapore,3.4,542,OPERATIONAL,shopping_mall,"401 MacPherson Rd, Singapore 368125",Toa Payoh,124940,0,0
+59,Bishan North Shopping Mall,ChIJAcrUCiIX2jERugq6oHt9OgQ,1.3582587,103.844478,9R5V+8Q Singapore,3.9,271,OPERATIONAL,shopping_mall,"282 Bishan Street 22, Singapore 570282",Bishan,90700,3,1
+60,Ming Arcade,ChIJAdjShIwZ2jERzJk4QojW0dE,1.3062561,103.8281069,8R4H+G6 Singapore,3.8,131,OPERATIONAL,shopping_mall,"21 Cuscaden Rd, Singapore 249720",Orchard,920,10,14
+61,Chinatown Complex,ChIJAenlH3MZ2jERqjoWXlxEH6w,1.2822566,103.8432282,7RJV+W7 Singapore,4.1,4709,OPERATIONAL,shopping_mall,"335 Smith St, S 050335",Outram,22080,28,13
+62,Great World City,ChIJB14IQoMZ2jERyjiLXouuJe0,1.2936417,103.8319293,7RVJ+FQ Singapore,4.1,4587,OPERATIONAL,shopping_mall,"1 Kim Seng Promenade, Singapore 237994",Singapore River,2720,11,0
+63,Ryan's Bistro,ChIJB21X0wIZ2jER0qHaEr_qKVc,1.3030433,103.8529208,8V33+65 Singapore,3.7,9,OPERATIONAL,shopping_mall,"1 Rochor Canal Road, #04, 02F Sim Lim Square, Singapore 188504",Rochor,14590,10,11
+64,Sim Lim Square,ChIJB5c91rsZ2jERPX9_QUwrSsc,1.3030433,103.8529208,8V33+65 Singapore,3.9,9996,OPERATIONAL,shopping_mall,"1 Rochor Canal Rd, Singapore 188504",Rochor,14590,10,11
+65,Tanjong katong Complex,ChIJB5iUeRcY2jERTV7fJij_i4A,1.3159363,103.8945531,8V8V+9R Singapore,3.9,2134,OPERATIONAL,shopping_mall,"845 Geylang Rd, #03-44, Singapore 400845",Geylang,116960,10,7
+66,Concorde Shopping Mall,ChIJB5uaq5cZ2jERlKfLlpFMZc8,1.3006019,103.8420681,8R2R+6R Singapore,3.8,1286,OPERATIONAL,shopping_mall,"100 Orchard Rd, Singapore 238840",Orchard,920,18,12
+67,Chinatown Point,ChIJBXC7TAsZ2jERdpAi-2uczMQ,1.2852093,103.8447228,7RPV+3V Singapore,4.1,10548,OPERATIONAL,shopping_mall,"133 New Bridge Rd, Singapore 059413",Outram,22080,24,15
+68,Bedok Town Centre,ChIJBZgPTLMi2jEROmmmSFcnxCU,1.3245204,103.9315976,8WFJ+RJ Singapore,4.2,846,OPERATIONAL,shopping_mall,"Bedok North Street 1, Singapore",Bedok,289750,10,3
+69,Grandlink Square,ChIJBe1nR0QEBBARewvYudV7Yww,1.3142114,103.8915989,8V7R+MJ Singapore,3.6,341,OPERATIONAL,shopping_mall,"511 Guillemard Rd, Singapore 399849",Geylang,116960,10,4
+70,Geylang East Market & Food Centre,ChIJC0lyiyMY2jERPeJIDgP_wgw,1.3205556,103.8866667,8VCP+6M Singapore,3.8,1286,OPERATIONAL,shopping_mall,"117 Aljunied Ave 2, Singapore 380117",Geylang,116960,20,0
+71,SingPost Centre,ChIJC8ructcZ2jER2WPSgnCqzoc,1.3190065,103.8943833,8V9V+JQ Singapore,4.2,4746,OPERATIONAL,shopping_mall,"10 Eunos Rd 8, Singapore 408600",Geylang,116960,19,5
+72,Century Square,ChIJCXOkiBE92jERm5iCnMRS4_g,1.3523888,103.9438567,9W2V+XG Singapore,4.1,4274,OPERATIONAL,shopping_mall,"2 Tampines Central 5, #01-32 Century Square, Singapore 529509",Tampines,261230,0,7
+73,Thomson Plaza,ChIJC_JDKDAX2jERK0VIm3J7qZI,1.3548,103.8308,9R3J+W8 Singapore,3.9,1597,OPERATIONAL,shopping_mall,"301 Upper Thomson Rd, Singapore 574408",Bishan,90700,15,0
+74,Cuppage Plaza,ChIJCcxHwycZ2jER2I4T5RqWj24,1.3013201,103.8404848,8R2R+G5 Singapore,3.8,25,OPERATIONAL,shopping_mall,"Cuppage Rd, Singapore",Orchard,920,16,12
+75,CityLink,ChIJCeMaMKYZ2jER7P0rzkEtRbE,1.2913085,103.8551998,7VR4+G3 Singapore,4.3,1176,OPERATIONAL,shopping_mall,"1 Raffles Link, Singapore 039393",Downtown Core,3720,22,4
+76,City Gate,ChIJCfVRneYZ2jERw2hFWLvg3ts,1.3022965,103.8622714,8V26+WW Singapore,3.9,232,OPERATIONAL,shopping_mall,"371 Beach Rd, #04-01, Singapore 199597",Kallang,101210,8,7
+77,The Cathay,ChIJCwc9Ib0Z2jERGKkaxcJzE0c,1.2995083,103.8477778,7RXX+R4 Singapore,4.2,2438,OPERATIONAL,shopping_mall,"2 Handy Rd, Singapore 229233",Museum,380,16,8
+78,Paul Hair Salon,ChIJD-nJx3QZ2jERQYPu3UKgClE,1.2856221,103.8439868,7RPV+6H Singapore,3.9,41,OPERATIONAL,shopping_mall,"#02-26, Peoples Park Centre, 101 Upper Cross St, Singapore 058357",Outram,22080,22,14
+79,Peninsula Shopping Centre Singapore,ChIJDQn9K6EZ2jERGfy2lsTL4gM,1.291884,103.8500517,7VR2+Q2 Singapore,3.9,2966,OPERATIONAL,shopping_mall,"3 Coleman St, Singapore 179804",Downtown Core,3720,13,6
+80,Harbour Mall Siracha Laem Chabang. 3 mil fra Pattaya,ChIJDS4_w20Q2jERgoBcPz4e1lY,1.3377481,103.757058,8QQ4+3R Singapore,3.6,10,OPERATIONAL,shopping_mall,"51 Bukit Batok Cres, Singapore 658077",Bukit Batok,139270,6,0
+81,Taman Jurong Shopping Centre,ChIJDVS-D_sP2jERQRJHuRjWdpQ,1.3342811,103.7203739,8PMC+P4 Singapore,3.9,1200,OPERATIONAL,shopping_mall,"399 Yung Sheng Rd, Singapore 610399",Jurong West,272660,8,0
+82,The Poiz Center,ChIJDYL1BIIX2jERibIxE777ZZ8,1.3310265,103.8674651,8VJ8+CX Singapore,4,64,OPERATIONAL,shopping_mall,"51 Upper Serangoon Rd, Singapore 347697",Toa Payoh,124940,0,1
+83,Bendemeer Mall,ChIJDYaUPNIZ2jERpgv5bcauhmw,1.3184664,103.8630419,8V97+96 Singapore,3.9,232,OPERATIONAL,shopping_mall,"26 Bendemeer Rd, Singapore 330026",Kallang,101210,3,0
+84,Compass 1,ChIJE6VpO1sX2jERoAvi7FjzBvQ,1.3920241,103.8950148,9VRW+R2 Singapore,4.3,11,OPERATIONAL,shopping_mall,"1 Sengkang Square, Singapore 545078",Sengkang,206680,10,1
+85,City Gate Mall Singapore,ChIJE6mq47MZ2jER_HX8IQ9k_dI,1.3022509,103.8625132,8V27+W2 Singapore,4.2,6,OPERATIONAL,shopping_mall,"371 Beach Rd, Singapore 199597",Kallang,101210,9,7
+86,Balestier Plaza,ChIJEZ4qrdgZ2jERuw8-9tosjBs,1.3256181,103.8503963,8VG2+65 Singapore,3.6,479,OPERATIONAL,shopping_mall,"400 Balestier Rd, Singapore 329802",Novena,47990,5,4
+87,Rochester Mall,ChIJEaBAGEMa2jERttBFiHpl_UE,1.3056024,103.788206,8Q4Q+67 Singapore,3.8,890,OPERATIONAL,shopping_mall,"35 Rochester Dr, Singapore 138639",Queenstown,98050,10,1
+88,Crown Centre,ChIJEybIFQYa2jER8CtyHEQ06ko,1.3230556,103.8113889,8RF6+6H Singapore,3.7,124,OPERATIONAL,shopping_mall,"557 Bukit Timah Rd, Singapore 269694",Bukit Timah,74470,5,5
+89,Hong Kah Point,ChIJF2kjo9wP2jERUmUbpblEvok,1.3501653,103.7190623,9P29+3J Singapore,4,458,OPERATIONAL,shopping_mall,"501 Jurong West Street 51, Singapore 640501",Jurong West,272660,8,0
+90,Tan Boon Liat Building,ChIJFcgATYEZ2jER3KDi-No2siU,1.2873156,103.8340344,7RPM+WJ Singapore,3.8,391,OPERATIONAL,shopping_mall,"315 Outram Rd, Singapore 169074",Bukit Merah,,6,1
+91,Aperia Mall,ChIJFx0yu8sZ2jERgoVtEwS7Igs,1.3098281,103.8639058,8V57+WH Singapore,3.8,2178,OPERATIONAL,shopping_mall,"8 - 12 Kallang Ave, Singapore 339509",Kallang,101210,10,0
+92,The Sail,ChIJG_m6Rw4Z2jERSePN1VWubwA,1.281122,103.853009,7VJ3+C6 Singapore,4.2,288,OPERATIONAL,shopping_mall,"2 Marina Blvd, Singapore 018987",Downtown Core,3720,15,8
+93,Balmoral Plaza,ChIJGe2Jmu8Z2jERF13O2J2LQHY,1.3165038,103.8353812,8R8P+J5 Singapore,3.8,196,OPERATIONAL,shopping_mall,"271 Bukit Timah Rd, Singapore 259708",Newton,6920,13,0
+94,ONNIE LENS -Korea,ChIJGwEtSNsZ2jER2iCJINpejJA,1.2997726,103.8543943,7VX3+WQ Singapore,4.2,10,OPERATIONAL,shopping_mall,"201 Victoria St, #02-69 to 70 Bugis+, Singapore 188067",Rochor,14590,12,11
+95,Waterway Point,ChIJH55QcTgV2jERvwnErxNz9Nk,1.406991,103.9014582,CW42+QH Singapore,4.4,219,OPERATIONAL,shopping_mall,"81 Punggol Central, Singapore",Punggol,109750,3,1
+96,Shop @ West,ChIJHRxyBmw92jERGV8oR0zMEHQ,1.3490916,103.9333469,8WXM+J8 Singapore,4.1,114,OPERATIONAL,shopping_mall,"Tampines Street 81, Singapore 520825",Tampines,261230,0,0
+97,313@somerset,ChIJHSrGJ5EZ2jERTzbUyme7KuQ,1.300898,103.838361,8R2Q+98 Singapore,4.3,12609,OPERATIONAL,shopping_mall,"313 Orchard Rd, Singapore 238895",Orchard,920,19,18
+98,Holland Piazza,ChIJHT9PqWsa2jER7cXRi00lkjY,1.310784,103.7952012,8Q6W+83 Singapore,4.2,295,OPERATIONAL,shopping_mall,"3 Lor Liput, Singapore 277725",Bukit Timah,74470,16,3
+99,Serene Centre,ChIJHVLCmgYa2jERzRfP7gF6JiA,1.3225694,103.8137118,8RF7+2F Singapore,3.7,673,OPERATIONAL,shopping_mall,"10 Jln Serene, Singapore 258748",Tanglin,,3,5
+100,Guoco Tower,ChIJHVm8JRMZ2jERK8ACFl8Gp04,1.2769938,103.8457765,7RGW+Q8 Singapore,4.2,2128,OPERATIONAL,shopping_mall,"1 Wallich St, Singapore 078881",Downtown Core,3720,23,6
+101,Marina Bay Link Mall,ChIJHXaCig4Z2jER6U4Qy8aX7Co,1.2795303,103.8543391,7VH3+RP Singapore,4.3,2693,OPERATIONAL,shopping_mall,"8A Marina Blvd, Singapore 018984",Downtown Core,3720,11,3
+102,Sun Plaza,ChIJHYe2MX0T2jER6vve5JwvRvw,1.4482678,103.8196887,CRX9+8V Singapore,3.9,4022,OPERATIONAL,shopping_mall,"30 Sembawang Dr, Singapore 757713",Sembawang,76530,10,1
+103,Oriental Plaza,ChIJHa7C-HIZ2jERdkDytwf7y60,1.2818744,103.8420632,7RJR+PR Singapore,3.8,265,OPERATIONAL,shopping_mall,"291 New Bridge Rd, Singapore 088756",Outram,22080,27,10
+104,Beauty World Centre,ChIJHwZEaooQ2jERTAhWTymqJUw,1.3423741,103.7762593,8QRG+WG Singapore,3.7,2306,OPERATIONAL,shopping_mall,"144 Upper Bukit Timah Rd, B1-22, Singapore 588177",Bukit Timah,74470,2,2
+105,888 Plaza,ChIJIf-M9qAT2jERd0qCLuYmM3E,1.4376669,103.7951408,CQQW+33 Singapore,4,1976,OPERATIONAL,shopping_mall,"888 Woodlands Drive 50, Singapore 730888",Woodlands,250290,0,0
+106,Tai Seng Mall,ChIJJ1TqVy8X2jERsMiBSFsz6jQ,1.3363858,103.8888439,8VPQ+HG Singapore,4.2,9,OPERATIONAL,shopping_mall,"18 Tai Seng St, Singapore 534119",Hougang,222310,0,1
+107,Woodlands Complex Pte Ltd,ChIJJ2dCl6gT2jERZXMSp_mC_d4,1.4358384,103.7861037,CQPP+8C Singapore,3.7,6,OPERATIONAL,shopping_mall,"1 Woodlands Square, Singapore 738099",Woodlands,250290,1,2
+108,Tanjong Pagar Plaza,ChIJJRadj2wZ2jERqI_61mafRPU,1.2748632,103.8426344,7RFV+W3 Singapore,4,1396,OPERATIONAL,shopping_mall,"1 Tanjong Pagar Plaza, Singapore 082001",Outram,22080,12,4
+109,Centropod,ChIJJUC6jy0Z2jER07Evfzn4cqI,1.3163809,103.9004293,8W82+H5 Singapore,3.8,40,OPERATIONAL,shopping_mall,Singapore 419715,Geylang,116960,4,2
+110,Crescent Building,ChIJJZFoItkZ2jERQ0Nb9lbBCP4,1.3237339,103.8522792,8VF2+FW Singapore,4.5,8,OPERATIONAL,shopping_mall,"320 Balestier Rd, Singapore 329924",Novena,47990,1,3
+111,Pasir Ris West Plaza,ChIJJxP6n5U92jERsaST_Cdf5Jw,1.3797981,103.9362665,9WHP+WG Singapore,3.8,1095,OPERATIONAL,shopping_mall,"735 Pasir Ris Street 72, Singapore 510735",Pasir Ris,139890,0,0
+112,Fu Lu Shou Complex,ChIJJyJqRLoZ2jERH1rScfZ4FTw,1.3016228,103.8544321,8V23+JQ Singapore,3.8,1901,OPERATIONAL,shopping_mall,"149 Rochor Rd, Singapore 188425",Rochor,14590,10,11
+113,VivoCity,ChIJK7xLl1gZ2jERP_GdUY9XNLo,1.2644032,103.8222071,7R7C+QV Singapore,4.5,39056,OPERATIONAL,shopping_mall,"1 HarbourFront Walk, Singapore 098585",Bukit Merah,,0,3
+114,One Raffles Place,ChIJK9RprA4Z2jER6eXnhX7zFaU,1.284177,103.851063,7VM2+MC Singapore,4.2,2815,OPERATIONAL,shopping_mall,"1 Raffles Place, Singapore 048616",Downtown Core,3720,20,9
+115,YewTee Point,ChIJL3h_-fMR2jERaA6mW3u-wNU,1.39716,103.7468352,9PWW+VP Singapore,4,1387,OPERATIONAL,shopping_mall,"21 Choa Chu Kang North 6, Singapore 689578",Choa Chu Kang,174330,0,1
+116,AS'FALL,ChIJL59yFEsZ2jERyfh73dDX9ME,1.300639,103.8592221,8V25+7M Singapore,5,14,OPERATIONAL,shopping_mall,"28 Haji Ln, AS'FALL, Singapore 189221",Rochor,14590,16,7
+117,Waterway Point,ChIJLTCPpuQV2jERYMYF_2uprDE,1.40669,103.9021738,CW42+MV Singapore,4.3,10058,OPERATIONAL,shopping_mall,"83 Punggol Central, Singapore 828761",Punggol,109750,5,1
+118,Broadway Plaza,ChIJLWB1kOcW2jERY7Rq2bBgbuo,1.3719492,103.8459995,9RCW+Q9 Singapore,3.6,199,OPERATIONAL,shopping_mall,"4190 Ang Mo Kio Ave 6, Singapore 569841",Ang Mo Kio,174770,3,3
+119,Valley Point,ChIJLZ9oWoEZ2jERwxPWGD_Zpnw,1.2931676,103.8271026,7RVG+7R Singapore,3.9,1012,OPERATIONAL,shopping_mall,"491 River Valley Rd, Singapore 248371",Tanglin,,4,1
+120,Leisure Park Kallang,ChIJLd1Z2E4Y2jERUHJ7xqnUnoI,1.3022222,103.8763889,8V2G+VH Singapore,3.9,2572,OPERATIONAL,shopping_mall,"5 Stadium Walk, Singapore 397693",Kallang,101210,0,1
+121,Jalan Besar Plaza,ChIJLeCG0eEZ2jERg37fJ0lxQiI,1.3088354,103.8580231,8V55+G6 Singapore,4,87,OPERATIONAL,shopping_mall,"101 Kitchener Rd, Singapore 208511",Kallang,101210,13,3
+122,ARC 380,ChIJM0IPws4Z2jERQIUqgwnBFxU,1.3135494,103.8603453,8V76+C4 Singapore,3.9,120,OPERATIONAL,shopping_mall,"380 Jln Besar, ARC 380, Singapore 209000",Kallang,101210,10,1
+123,Fajar Shopping Centre,ChIJM7Kvx3QZ2jER7umUFjan98g,1.3840538,103.7705874,9QMC+J6 Singapore,3.8,1289,OPERATIONAL,shopping_mall,"445 Fajar Rd, Singapore 670445",Bukit Panjang,,9,0
+124,Value Dollar,ChIJMWPqFnYV2jERFQD8jtq3GVE,1.4278418,103.8363479,CRHP+4G Singapore,4.6,14,OPERATIONAL,shopping_mall,"922A Yishun Central 1, Singapore 768795",Yishun,201970,7,4
+125,Bukit Batok West Shopping Centre,ChIJN7TfWTwQ2jERpX-5vRTf0Wc,1.3484015,103.7440808,8PXV+9J Singapore,4,262,OPERATIONAL,shopping_mall,"150 Bukit Batok Street 11, Singapore 650150",Bukit Batok,139270,3,0
+126,Textile Centre,ChIJNa7wStoZ2jERD37YoPeqr8I,1.3036547,103.8612408,8V36+FF Singapore,4.1,35,OPERATIONAL,shopping_mall,"200 Jln Sultan, Singapore 199018",Kallang,101210,13,7
+127,Upper Serangoon Shopping Centre,ChIJNxcORqUX2jER6BxnP6KuyP4,1.3539953,103.8786621,9V3H+HF Singapore,3.3,586,OPERATIONAL,shopping_mall,"756 Upper Serangoon Rd, Singapore 534626",Hougang,222310,5,1
+128,The grandstand car mall,ChIJNycy15AQ2jER6cXnkwu5B4Q,1.336779,103.7931845,8QPV+P7 Singapore,3.6,11,OPERATIONAL,shopping_mall,"210 Turf Club Rd, Singapore 287995",Bukit Timah,74470,4,1
+129,Elias Mall,ChIJO78EpL492jERuWZcaOf26DA,1.3783052,103.9418722,9WHR+8P Singapore,3.8,1613,OPERATIONAL,shopping_mall,"Elias Rd, Elias Mall, Singapore 510625",Pasir Ris,139890,6,0
+130,Woodlands Causeway Point,ChIJOQL7aKIT2jERDTMxaMuHnZ4,1.4369246,103.7865141,CQPP+QJ Singapore,4.2,58,OPERATIONAL,shopping_mall,"30 Woodlands Ave 2, Singapore 738343",Woodlands,250290,1,2
+131,Greenridge Shopping Centre,ChIJOVkoVXAR2jERO-rsgB51laI,1.3852904,103.7662349,9QP8+4F Singapore,3.9,189,OPERATIONAL,shopping_mall,"524A Jelapang Rd, Singapore 671524",Bukit Panjang,,5,0
+132,Velocity＠Novena Square,ChIJO_5acOcZ2jERMTtjb_W_6Go,1.3198822,103.8439452,8R9V+XH Singapore,4.1,7224,OPERATIONAL,shopping_mall,"238 Thomson Rd, Singapore 307683",Novena,47990,16,5
+133,Coronation Shopping Plaza,ChIJOcGcrxwb2jER8BNTnpxWc0Q,1.3239187,103.8099886,8RF5+HX Singapore,4,219,OPERATIONAL,shopping_mall,"587 Bukit Timah Rd, Singapore 269707",Bukit Timah,74470,7,4
+134,Burlington Square,ChIJOcxCxLsZ2jERz3-Dm4IPvWk,1.3025,103.8526,8V23+X2 Singapore,3.9,1273,OPERATIONAL,shopping_mall,"175 Bencoolen St, Singapore 189649",Rochor,14590,10,13
+135,Bedok Shopping Complex,ChIJOeAV6jE92jERAsMWiVpIEJU,1.3313326,103.9485799,8WJX+GC Singapore,4.1,681,OPERATIONAL,shopping_mall,"348 Bedok Rd, Singapore 469560",Bedok,289750,0,2
+136,Mustafa Centre,ChIJP7z00McZ2jERJztQqXkRIC4,1.3097877,103.8555583,8V54+W6 Singapore,4.3,26397,OPERATIONAL,shopping_mall,"145 Syed Alwi Rd, Singapore 207704",Kallang,101210,16,3
+137,The Grandstand,ChIJPXaE0pYQ2jERev7FRC4x-oE,1.3380084,103.7934418,8QQV+69 Singapore,3.8,2535,OPERATIONAL,shopping_mall,"200 Turf Club Rd, Singapore 287994",Bukit Timah,74470,4,1
+138,Far East Plaza,ChIJPZTUpZIZ2jERk5GUzK_g9_0,1.3070854,103.8333034,8R4M+R8 Singapore,3.9,4570,OPERATIONAL,shopping_mall,"14 Scotts Rd, Singapore 228213",Orchard,920,13,13
+139,Shaw House,ChIJPwWJoI0Z2jERcpYtSDNQMDg,1.305645,103.8315277,8R4J+7J Singapore,4.2,1674,OPERATIONAL,shopping_mall,"350 Orchard Rd, Singapore 238868",Orchard,920,7,17
+140,Bukit Gombak Neighbourhood Centre,ChIJPwriazYQ2jER8tcEv-XxROQ,1.3586192,103.7504624,9Q52+C5 Singapore,4.3,415,OPERATIONAL,shopping_mall,"373 Bukit Batok Street 31, Singapore 650373",Bukit Batok,139270,1,0
+141,Big Box Singapore,ChIJPxTAyg4Q2jERoWdMvHYV72U,1.3318103,103.7447649,8PJV+PW Singapore,3.5,3218,OPERATIONAL,shopping_mall,"1 Venture Avenue, Singapore 608521",Jurong East,84980,12,4
+142,Changi City Point,ChIJPyKq0o082jERd1bghvwiadU,1.334638,103.9623868,8XM6+VX Singapore,4.3,8078,OPERATIONAL,shopping_mall,"5 Changi Business Park Central 1, Singapore 486038",Tampines,261230,0,0
+143,Junction 10,ChIJQSyjW7wR2jERvUB8B9ktx20,1.3798647,103.7606506,9QH6+W7 Singapore,3.6,1417,OPERATIONAL,shopping_mall,"1 Woodlands Rd, Singapore 677899",Choa Chu Kang,174330,1,2
+144,Forum The Shopping Mall,ChIJQe8Ik4wZ2jERM78XCNBVhe0,1.3061111,103.8286111,8R4H+CC Singapore,4,2028,OPERATIONAL,shopping_mall,"583 Orchard Rd, Singapore 238884",Orchard,920,9,14
+145,Orchard Central,ChIJQfAL2JYZ2jER9v06BxkNw1k,1.3006295,103.8398742,8R2Q+7W Singapore,4.3,9046,OPERATIONAL,shopping_mall,"181 Orchard Rd, Singapore 238896",Orchard,920,18,15
+146,White Sands,ChIJQyaM-6892jER4DhQn_hqaYE,1.3724166,103.9496584,9WCX+XV Singapore,4.1,4816,OPERATIONAL,shopping_mall,"1 Pasir Ris Central Street 3, Singapore 518457",Pasir Ris,139890,10,0
+147,Plaza Singapura,ChIJR1Fyfr0Z2jERzwO-AZiJ-HM,1.3005317,103.8452356,8R2W+63 Singapore,4.4,16005,OPERATIONAL,shopping_mall,"68 Orchard Rd, Singapore 238839",Museum,380,20,6
+148,Bedok Mall,ChIJR80Wwcoi2jER8yMuAZodQFk,1.3245781,103.9296683,8WFH+RV Singapore,4.2,10669,OPERATIONAL,shopping_mall,"311 New Upper Changi Rd, Singapore 467360",Bedok,289750,10,3
+149,"71 Kallang Bahru, Singapore 330071",ChIJRWzijiwY2jERkatRsPgUFKY,1.3209366,103.8705671,8VCC+96 Singapore,3.9,80,OPERATIONAL,shopping_mall,"71 Kallang Bahru, Singapore 330071",Kallang,101210,0,0
+150,United Square Shopping Mall,ChIJRX3v4ecZ2jERD0BlqjhXKCc,1.3172768,103.8436682,8R8V+WF Singapore,4,3797,OPERATIONAL,shopping_mall,"101 Thomson Rd, Singapore 307591",Novena,47990,18,5
+151,The Centrepoint,ChIJRZ1c0JYZ2jER6cpyNpOyf3M,1.3021165,103.839761,8R2Q+RW Singapore,4,3668,OPERATIONAL,shopping_mall,"176 Orchard Rd, Singapore 238843",Newton,6920,16,16
+152,ION Orchard,ChIJRfty640Z2jER1bfjtWr9pnA,1.3040194,103.8318259,8R3J+JP Singapore,4.4,61,OPERATIONAL,shopping_mall,"2 Orchard Turn, Singapore 238801",Orchard,920,11,17
+153,The Seletar Mall,ChIJRwKG2mQW2jER13VL9P5QOws,1.3915208,103.8760834,9VRG+JC Singapore,4.1,4663,OPERATIONAL,shopping_mall,"33 Sengkang West Ave, Singapore 797653",Sengkang,206680,0,0
+154,Raffles Xchange,ChIJRx3TB0YZ2jER4p54eKXyoRQ,1.2841416,103.8513316,7VM2+MG Singapore,3.9,47,OPERATIONAL,shopping_mall,"Raffles Place, Singapore",Downtown Core,3720,20,9
+155,Shaw Plaza,ChIJSSI0xNgZ2jERgIHI8GqvDpU,1.325,103.8511111,8VG2+2C Singapore,3.7,902,OPERATIONAL,shopping_mall,"360 Balestier Rd, Singapore 329783",Novena,47990,4,3
+156,The Rail Mall,ChIJSX0T2lMQ2jERa6Ixq0d5hkA,1.3582148,103.7679617,9Q59+75 Singapore,4,1870,OPERATIONAL,shopping_mall,"380 Upper Bukit Timah Rd, Singapore 678040",Bukit Panjang,,11,0
+157,Wisma Atria,ChIJSZHC-I0Z2jERm8BlwXqhcfc,1.303841,103.8330524,8R3M+G6 Singapore,4.2,6133,OPERATIONAL,shopping_mall,"435 Orchard Rd, Singapore 238877",Orchard,920,16,17
+158,Woodlands North Plaza,ChIJSybHEQkT2jERinNxCwCjDds,1.4426674,103.7907333,CQVR+37 Singapore,3.9,837,OPERATIONAL,shopping_mall,"883 Woodlands Street 82, Singapore 730883",Woodlands,250290,1,0
+159,AMK Hub,ChIJT80kwuYW2jERhogn4ZW0fG4,1.36953,103.8484398,9R9X+R9 Singapore,4.1,10165,OPERATIONAL,shopping_mall,"53 Ang Mo Kio Ave 3, Singapore 569933",Ang Mo Kio,174770,4,3
+160,UB.One,ChIJT8tu-noX2jERutXc4w-BQeE,1.3334818,103.8917548,8VMR+9P Singapore,3.5,6,OPERATIONAL,shopping_mall,"81 UBI AVENUE 4 #03-31 UB.ONE, Singapore 408830",Geylang,116960,9,1
+161,OnTheList Singapore,ChIJT9sv7U8Z2jERAVRM55GE0ks,1.2840779,103.8513246,7VM2+JG Singapore,1.9,10,OPERATIONAL,shopping_mall,"SG Change Alley Mall, #02-20, 30 Raffles Place, Singapore 048622",Downtown Core,3720,20,9
+162,Tampines 1,ChIJTVVVIA492jER3TWGPpL6gRk,1.354212,103.9450352,9W3W+M2 Singapore,4.2,6189,OPERATIONAL,shopping_mall,"10 Tampines Central 1, Singapore 529536",Tampines,261230,0,4
+163,Vista Point,ChIJTW4fr5wT2jEReGufQu0QfWQ,1.4313115,103.7938664,CQJV+GG Singapore,4.2,319,OPERATIONAL,shopping_mall,Singapore 730548,Woodlands,250290,0,0
+164,Hougang Mall,ChIJTzOjnDcW2jERHyoyj5LFmQ4,1.3725894,103.8937225,9VFV+2F Singapore,4,5238,OPERATIONAL,shopping_mall,"90 Hougang Ave 10, Singapore 538766",Hougang,222310,0,2
+165,OUE LINK,ChIJU-W92g4Z2jERnDDzarAJWiE,1.2837249,103.8528699,7VM3+F4 Singapore,3.9,18,OPERATIONAL,shopping_mall,"62 Collyer Quay, Singapore 049325",Downtown Core,3720,21,9
+166,Teck Whye Shopping Centre,ChIJU5KbYb8R2jERt0l-XxTMFgI,1.3800721,103.7524357,9QJ2+2X Singapore,3.8,318,OPERATIONAL,shopping_mall,"137 Teck Whye Ln, Singapore 680137",Choa Chu Kang,174330,10,1
+167,PLQ Mall,ChIJU8zODXwZ2jERNsDnX0rcqpQ,1.3175284,103.8928037,8V9V+24 Singapore,4.4,564,OPERATIONAL,shopping_mall,"10 Paya Lebar Road, PLQ Mall, Paya Lebar Quarter, Singapore 409057",Geylang,116960,15,6
+168,Tudor Court,ChIJUQIaU4oZ2jERnaLehmPG6pw,1.3051719,103.8242312,8R4F+3M Singapore,4.1,20,OPERATIONAL,shopping_mall,"131 Tanglin Rd, Singapore 247924",Orchard,920,9,5
+169,People's Park Complex,ChIJUbBZdnMZ2jERwGxmDy7DZg0,1.2841947,103.842484,7RMR+MX Singapore,4,731,OPERATIONAL,shopping_mall,"1 Park Rd, Singapore 059108",Outram,22080,27,13
+170,Block 282,ChIJUzm2nxgX2jER80cElXpW4A4,1.358044,103.8449084,9R5V+6X Singapore,3.7,83,OPERATIONAL,shopping_mall,"282 Bishan Street 22, #01-149, Singapore 570282",Bishan,90700,2,1
+171,East Village,ChIJVQ2jjjA92jERe-F1YaoVOhY,1.3318464,103.9463496,8WJW+PG Singapore,3.9,181,OPERATIONAL,shopping_mall,"430 Upper Changi Rd, Singapore 487048",Bedok,289750,0,1
+172,270 Orchard Rd,ChIJVVUFf5EZ2jERTsSPm4ZUTq4,1.3030462,103.836245,8R3P+6F Singapore,4.6,369,OPERATIONAL,shopping_mall,"270 Orchard Rd, Singapore 238857",Orchard,920,18,19
+173,Novena Square Shopping Mall,ChIJVVVVcOcZ2jERuHgJL1B5Aj4,1.3200049,103.8439137,8RCV+2H Singapore,4.2,192,OPERATIONAL,shopping_mall,"238 Thomson Rd, Singapore 307683",Novena,47990,16,5
+174,Grantral Mall,ChIJVVVlQI4a2jERifjCxAVJCng,1.3142926,103.7651327,8Q78+P3 Singapore,3.4,140,OPERATIONAL,shopping_mall,"Commonwealth Ave W, CityVibe, Singapore 129581",Clementi,91630,11,2
+175,Westway,ChIJVVWVMakb2jER_0QNRNyQdxc,1.2830324,103.7806554,7QMJ+67 Singapore,4.1,21,OPERATIONAL,shopping_mall,"27 W Coast Hwy, Singapore 117867",Queenstown,98050,0,0
+176,Royal Square @ Novena Sales & Rental Office,ChIJVWa4ADEZ2jER2ONXOeualPU,1.3202997,103.842999,8RCV+45 Singapore,4.2,220,OPERATIONAL,shopping_mall,"101 Irrawaddy Rd, Singapore 329565",Novena,47990,16,5
+177,Anchorpoint Shopping Centre,ChIJVXvuuswb2jER8BZU_kcS2ds,1.2887706,103.8050762,7RQ4+G2 Singapore,3.9,2470,OPERATIONAL,shopping_mall,"370 Alexandra Rd, Singapore 159953",Queenstown,98050,0,2
+178,Far East Shopping Centre,ChIJW102VIwZ2jERnOxwpL7Xju8,1.3057392,103.8299232,8R4H+7X Singapore,3.7,1141,OPERATIONAL,shopping_mall,"545 Orchard Rd, Singapore 238882",Orchard,920,10,15
+179,The Bencoolen,ChIJW1X7tLsZ2jERiz3F9Zm9y4s,1.3016941,103.8532843,8V23+M8 Singapore,3.8,455,OPERATIONAL,shopping_mall,"180 Bencoolen St, Singapore 189646",Rochor,14590,10,14
+180,Scape Mall,ChIJW6bqq5EZ2jERjTgzfhd2j8A,1.3010208,103.8356597,8R2P+C7 Singapore,4.2,254,OPERATIONAL,shopping_mall,"2 Orchard Link, Singapore 237978",Orchard,920,20,17
+181,Balestier Hill Shopping Centre Block 2,ChIJW7nOIuAZ2jERznVUaWaNNhw,1.3259031,103.8432012,8RGV+97 Singapore,3.7,13,OPERATIONAL,shopping_mall,"Balestier Rd, Singapore",Novena,47990,15,2
+182,Lucky Chinatown,ChIJWbS5XRwZ2jERAc34umUVB2E,1.283644,103.8433191,7RMV+F8 Singapore,3.9,81,OPERATIONAL,shopping_mall,"211 New Bridge Rd, Singapore 059432",Outram,22080,28,13
+183,Blk 253 Choa Chu Kang Market & Food Centre,ChIJWxEUrdkR2jERM4uTxwEQ3ZY,1.3766662,103.7445867,9PGV+MR Singapore,4.5,11,OPERATIONAL,shopping_mall,"Choa Chu Kang Ave 1, Singapore",Choa Chu Kang,174330,8,0
+184,Teck Whye Shopping Centre,ChIJX4qbhr8R2jERtzStz6LOjN4,1.3813148,103.7524954,9QJ2+GX Singapore,4.2,41,OPERATIONAL,shopping_mall,"2 Teck Whye Ln, Singapore 688799",Choa Chu Kang,174330,11,1
+185,Change Alley,ChIJXZONyw4Z2jER_t2qqsoJMEA,1.2841569,103.8523814,7VM2+MX Singapore,4,11,OPERATIONAL,shopping_mall,"16 Collyer Quay, Singapore 049318",Downtown Core,3720,21,9
+186,Orchard Building,ChIJY27C0cAZ2jERWP8Shb94Qck,1.3014651,103.8373103,8R2P+HW Singapore,3.8,13,OPERATIONAL,shopping_mall,"1 Grange Rd, Singapore 239693",Orchard,920,19,18
+187,Tampines Mart,ChIJY3E5sAI92jER_fY5uKZt2Bc,1.3544642,103.9600116,9X36+Q2 Singapore,4,849,OPERATIONAL,shopping_mall,"Tampines Street 32, Singapore 529287",Tampines,261230,7,0
+188,Orchard Plaza - Drink and KTV,ChIJYQBoAg4Z2jER2rSw08AMe0s,1.3010249,103.8410995,8R2R+CC Singapore,3.8,109,OPERATIONAL,shopping_mall,"150 Orchard Rd, Singapore 238841",Orchard,920,17,12
+189,KINEX,ChIJYQPdBBcY2jERfCgwBWK0mp0,1.3147221,103.8947554,8V7V+VW Singapore,3.9,3774,OPERATIONAL,shopping_mall,"11 Tanjong Katong Rd, Singapore 437157",Geylang,116960,10,6
+190,Marsiling Mall,ChIJYWN8OzAT2jERnSzksJ8pIdQ,1.4335025,103.7798823,CQMH+CX Singapore,4.1,125,OPERATIONAL,shopping_mall,"4 Woodlands Street 12, Singapore 738620",Woodlands,250290,2,0
+191,City Square Mall,ChIJZ1omp8gZ2jERgDUAb_hBKLY,1.3111877,103.8566675,8V64+FM Singapore,4.3,16432,OPERATIONAL,shopping_mall,"180 Kitchener Rd, Singapore 208539",Kallang,101210,13,4
+192,La Vida - White Sands,ChIJZ8jUNGY92jERsAHAo55NzCU,1.3724166,103.9496584,9WCX+XV Singapore,4.8,19,OPERATIONAL,shopping_mall,"1 Pasir Ris Central Street 3, #04-09, Singapore 518457",Pasir Ris,139890,10,0
+193,Zhongshan Mall,ChIJZdlKPGAX2jERZlOP1cN5tpE,1.3270618,103.8464431,8RGW+RH Singapore,4,2123,OPERATIONAL,shopping_mall,"20 Ah Hood Rd, Singapore 329984",Novena,47990,12,3
+194,New Bridge Centre,ChIJZzMfDnMZ2jERZGYtqf2QiN8,1.2829051,103.8427374,7RMV+53 Singapore,4,155,OPERATIONAL,shopping_mall,"336 Smith St, Singapore 050336",Outram,22080,28,12
+195,Alexandra Central Mall,ChIJ_1WtiMwb2jERZKYs6ALsFxc,1.2873346,103.8050545,7RP4+W2 Singapore,3.7,1344,OPERATIONAL,shopping_mall,"321 Alexandra Rd, Singapore 159971",Bukit Merah,,0,2
+196,Ngee Ann City,ChIJ_7pt85EZ2jERPfKpmuwrzys,1.3025572,103.834568,8R3M+2R Singapore,4.4,13031,OPERATIONAL,shopping_mall,"391A Orchard Rd, Singapore 238873",Orchard,920,19,17
+197,Hillion mall,ChIJ_8HAraQR2jERaLrfjzD5k7Y,1.3785171,103.7632971,9QH7+C8 Singapore,4.2,5811,OPERATIONAL,shopping_mall,"17 Petir Rd, Singapore 678278",Bukit Panjang,,6,2
+198,Bukit Timah Plaza,ChIJ_SyS-3sR2jERJiN0mIkzEW8,1.3385566,103.7786133,8QQH+CC Singapore,3.9,868,OPERATIONAL,shopping_mall,"1 Jalan Anak Bukit #04-01 Bukit Timah Plaza, Singapore 588996",Bukit Timah,74470,0,3
+199,Jubilee Square,ChIJ_VQ0s-cW2jERd1Ub9pthffE,1.3717025,103.8476215,9RCX+M2 Singapore,3.6,1301,OPERATIONAL,shopping_mall,"61 Ang Mo Kio Ave 8, Singapore 569814",Ang Mo Kio,174770,3,3
+200,The Shoppes at Marina Bay Sands,ChIJ__EU0QUZ2jERgKqbByZoXqs,1.2837366,103.8591923,7VM5+FM Singapore,4.5,14778,OPERATIONAL,shopping_mall,"2 Bayfront Ave Marina Bay Sands, Singapore 018972",Downtown Core,3720,17,1
+201,IMM,ChIJa2nb2g0Q2jERlcUMLtMVyoI,1.3348154,103.7468395,8PMW+WP Singapore,4.3,11660,OPERATIONAL,shopping_mall,"2 Jurong East Street 21, Singapore 609601",Jurong East,84980,12,4
+202,Icon @ Changi,ChIJa4VyeT4Z2jERUk5kJlirsJA,1.3171587,103.9045656,8W83+VR Singapore,4.7,7,OPERATIONAL,shopping_mall,"228 Changi Rd, Singapore 419741",Geylang,116960,0,1
+203,Jurong Point,ChIJa9YM2-wP2jERmOUStQKyiS0,1.3397443,103.7067297,8PQ4+VM Singapore,4.4,15844,OPERATIONAL,shopping_mall,"1 Jurong West Central 2, Singapore 648886",Jurong West,272660,15,0
+204,Golden Mile Complex,ChIJaXNYf7MZ2jERkka4Xw9X3S0,1.3026966,103.8651169,8V38+32 Singapore,3.9,4653,OPERATIONAL,shopping_mall,"5001 Beach Rd, Singapore 199588",Kallang,101210,8,6
+205,Golden Mile Tower,ChIJaXNYf7MZ2jERlrNOvRaZTMI,1.3019082,103.8638479,8V27+QG Singapore,3.8,1693,OPERATIONAL,shopping_mall,"6001 Beach Rd, Singapore 199589",Kallang,101210,8,6
+206,Junction 8,ChIJb-ErmBYX2jERBl1gF7cPIj4,1.3506808,103.8487631,9R2X+7G Singapore,4.1,8943,OPERATIONAL,shopping_mall,"9 Bishan Pl, Singapore 579837",Bishan,90700,1,0
+207,Jem,ChIJb20nHg8Q2jERuBnOGGnuq-s,1.3328303,103.7432656,8PMV+48 Singapore,4.3,12516,OPERATIONAL,shopping_mall,"50 Jurong Gateway Rd, Singapore 608549",Jurong East,84980,12,5
+208,Cheng San Centre,ChIJb3zzSu0X2jERac2W73ZFyTY,1.3736377,103.8546048,9VF3+FR Singapore,3.8,30,OPERATIONAL,shopping_mall,"532 Ang Mo Kio Ave 10, Singapore 560532",Ang Mo Kio,174770,4,0
+209,Far East Square,ChIJb_qbYwwZ2jERH9tIsjT57tg,1.2831684,103.8480136,7RMX+76 Singapore,4,697,OPERATIONAL,shopping_mall,"19 China St, Singapore 049561",Outram,22080,24,12
+210,Chevron House,ChIJcbtazA4Z2jERwbcZhMqFB9Y,1.2841089,103.852015,7VM2+JR Singapore,4,196,OPERATIONAL,shopping_mall,"30 Raffles Place, Singapore 048622",Downtown Core,3720,22,9
+211,Dawson Place,ChIJcdUlky0a2jERHuQ4kJzl9vA,1.2926472,103.8107529,7RV6+38 Singapore,3.9,1015,OPERATIONAL,shopping_mall,"57 Dawson Rd, Singapore 142057",Queenstown,98050,0,0
+212,Tampines N2 Shopping Street,ChIJdR-cZRs92jERlcWm17Xs_oo,1.3527442,103.953689,9X33+3F Singapore,4.1,778,OPERATIONAL,shopping_mall,"208A Tampines Ave 2, Singapore 521208",Tampines,261230,10,0
+213,Paragon Shopping Centre,ChIJdTUCMZIZ2jERexC2pnvJEJ4,1.3050619,103.8353052,8R4P+24 Singapore,4.2,12,OPERATIONAL,shopping_mall,"3 Mount Elizabeth, MT Elizabeth Hospital, Singapore 228510",Newton,6920,15,17
+214,Shaw Centre,ChIJdVshco0Z2jER5H03m10YGas,1.3062932,103.8318472,8R4J+GP Singapore,4.1,2170,OPERATIONAL,shopping_mall,"1 Scotts Rd, Singapore 228208",Orchard,920,7,16
+215,Northpoint Shopping Mall,ChIJdYWbv88V2jERRlTKg6cEIeU,1.4279685,103.8364153,CRHP+5H Singapore,4.4,687,OPERATIONAL,shopping_mall,Singapore,Yishun,201970,7,4
+216,Holland Road Shopping Centre,ChIJdaebOlQb2jER3_TYSDr4w5U,1.3104547,103.7954048,8Q6W+55 Singapore,4,304,OPERATIONAL,shopping_mall,"211 Holland Ave, Singapore 278967",Bukit Timah,74470,16,3
+217,West Coast Plaza,ChIJdxS7gPEa2jER1iMe8Ai90Ts,1.303632,103.766452,8Q38+FH Singapore,3.9,2708,OPERATIONAL,shopping_mall,"154 West Coast Rd, Singapore 127371",Clementi,91630,0,0
+218,Cineleisure Orchard,ChIJe3kMD5EZ2jERFGYVqhnc6DY,1.3015948,103.836414,8R2P+JH Singapore,4.1,4541,OPERATIONAL,shopping_mall,"8 Grange Rd, Singapore 239695",Orchard,920,20,19
+219,Bukit Panjang Plaza,ChIJe3kTN6MR2jERr5FbmFCuxPI,1.3800396,103.7642339,9QJ7+2M Singapore,4.1,4221,OPERATIONAL,shopping_mall,"1 Jelebu Rd, Singapore 677743",Bukit Panjang,,8,2
+220,Tiong Bahru Plaza,ChIJe5qyMnkZ2jERYRN7QP_pCMQ,1.2864878,103.8271464,7RPG+HV Singapore,4.1,6039,OPERATIONAL,shopping_mall,"298 Tiong Bahru Rd, Singapore 168732",Bukit Merah,,10,1
+221,myVillage,ChIJe9klyv8W2jERYNGDiZ86kbw,1.3650699,103.8652075,9V88+23 Singapore,3.9,233,OPERATIONAL,shopping_mall,"1 Maju Ave, Singapore 556679",Serangoon,120670,3,0
+222,NEX,ChIJeRqAraYX2jERQpyIAXSU1SU,1.3507723,103.8722585,9V2C+8W Singapore,4.3,15855,OPERATIONAL,shopping_mall,"23 Serangoon Central, Singapore 556083",Serangoon,120670,11,1
+223,Canberra Plaza,ChIJexbbYoYU2jERNnDL7LAbLn0,1.443256,103.830463,CRVJ+85 Singapore,3.9,15,OPERATIONAL,shopping_mall,"133 Canberra View, Singapore 750133",Sembawang,76530,4,0
+224,Raffles Holland V Mall,ChIJf2SJA2sa2jERSrwcPU_QRvI,1.3105584,103.7961823,8Q6W+6F Singapore,3.9,464,OPERATIONAL,shopping_mall,"118 Holland Ave, Singapore 278973",Bukit Timah,74470,16,3
+225,The Majestic,ChIJfSYyn3QZ2jERzxX0wJK1Sp4,1.2847423,103.8432282,7RMV+V7 Singapore,3.8,96,OPERATIONAL,shopping_mall,"80 Eu Tong Sen St, Singapore 059810",Outram,22080,25,13
+226,Buangkok Square Mall,ChIJfWoCWmgW2jERanT7N52GIYY,1.3843301,103.8820829,9VMJ+PR Singapore,4,459,OPERATIONAL,shopping_mall,"Block 991 Buangkok Link, Singapore 530991",Hougang,222310,3,0
+227,Orchard Gateway,ChIJfZmGM5EZ2jERgDzwv5rdA-U,1.3009584,103.8389111,8R2Q+9H Singapore,4.3,3300,OPERATIONAL,shopping_mall,"277 Orchard Rd, Singapore 238858",Orchard,920,18,16
+228,kcuts @Holland Piazza,ChIJg-4zQNcb2jERv2cdALBVw_Q,1.3107627,103.7952088,8Q6W+83 Singapore,3.5,16,OPERATIONAL,shopping_mall,"3 Lor Liput, #B1-01, Singapore 277725",Bukit Timah,74470,16,3
+229,Causeway Point,ChIJg0iEvagT2jERLpza72gaJ08,1.4360933,103.7859471,CQPP+C9 Singapore,4.2,8859,OPERATIONAL,shopping_mall,"1 Woodlands Square, Singapore 738099",Woodlands,250290,1,2
+230,Rivervale Plaza,ChIJg6GcaBcW2jER_Vyx8tDZ1JU,1.385387,103.9018653,9WP2+5P Singapore,3.9,2646,OPERATIONAL,shopping_mall,"118 Rivervale Dr, Singapore 540118",Sengkang,206680,2,0
+231,King's Arcade Shopping Centre,ChIJgRkgPQYa2jERY0l4yAuy74I,1.3233285,103.8108037,8RF6+88 Singapore,3.7,108,OPERATIONAL,shopping_mall,"559 Bukit Timah Rd, Singapore 269695",Bukit Timah,74470,5,5
+232,Purity Haven,ChIJgVphjBE92jERaU9RgqOATUs,1.3524927,103.9438027,9W2V+XG Singapore,3.4,7,OPERATIONAL,shopping_mall,"2 Tampines Central 5, #03-25 Century Square, Singapore 529509",Tampines,261230,0,7
+233,Bedok Point,ChIJgWBomLQi2jERyU-GZEHw_NI,1.3249305,103.9323811,8WFJ+XX Singapore,3.9,2010,OPERATIONAL,shopping_mall,"799 New Upper Changi Rd, Singapore 467351",Bedok,289750,10,3
+234,North Point City,ChIJgXPnfm8U2jERabk9PHaKjD0,1.4284574,103.8361884,CRHP+9F Singapore,4.1,14,OPERATIONAL,shopping_mall,"Yishun Central 1, Singapore",Yishun,201970,7,4
+235,Thai Dynasty Cuisine @Nex Food Junction,ChIJh-IWvMAX2jERcyGKeyBftIQ,1.3509338,103.8717532,9V2C+9P Singapore,2.9,7,OPERATIONAL,shopping_mall,"23 Serangoon Central, #04-36/37 Nex, Singapore 556083",Serangoon,120670,11,1
+236,7 Temasek Boulevard,ChIJh6kHyeMb2jER-qgva1OFubM,1.2648218,103.8182191,7R79+W7 Singapore,4.4,10,OPERATIONAL,shopping_mall,"1 Harbourfront Ave, Keppel Bay Tower, Singapore 098632",Bukit Merah,,0,2
+237,JCube,ChIJh7rQjgUQ2jERSAcxrKMcMg0,1.333138,103.740343,8PMR+74 Singapore,4.1,6285,OPERATIONAL,shopping_mall,"2 Jurong East Central 1, Singapore 609731",Jurong East,84980,13,3
+238,Knightsbridge,ChIJhQOvf5EZ2jERE-UdGluwRWA,1.3030644,103.8361853,8R3P+6F Singapore,4.3,49,OPERATIONAL,shopping_mall,"270 Orchard Rd, Singapore 238857",Orchard,920,18,20
+239,Aro Kingdom,ChIJhVIx2swR2jERUY3qsb8TPSc,1.3867009,103.7320767,9PPJ+MR Singapore,4.6,7,OPERATIONAL,shopping_mall,"80 Sungei Tengah Rd, Singapore 699004",Western Water Catchment,,0,0
+240,Chinatown,ChIJhYH9Vh0Z2jER6g6lUiEFQRU,1.2828226,103.845453,7RMW+45 Singapore,4.4,8,OPERATIONAL,shopping_mall,"South Bridge Rd, 227-233, Singapore 058776",Outram,22080,30,15
+241,Hougang Centre,ChIJi08JmDcW2jERwpmiFA7R9KI,1.3719606,103.8934394,9VCV+Q9 Singapore,4.3,7,OPERATIONAL,shopping_mall,"Hougang Central, Singapore",Hougang,222310,0,2
+242,321 Clementi,ChIJi1x76o0a2jERRpEEL3FuXJk,1.311998,103.765014,8Q68+Q2 Singapore,3.9,1729,OPERATIONAL,shopping_mall,"321 Clementi Ave 3, Singapore 129905",Clementi,91630,12,2
+243,Fook Hai Building,ChIJiTsmEnEZ2jERFHutpeR7-0Y,1.2850486,103.8464953,7RPW+2H Singapore,3.8,95,OPERATIONAL,shopping_mall,"150 South Bridge Rd, Singapore 058727",Outram,22080,24,14
+244,Katong Plaza,ChIJiYsAZXIY2jERmsUoK3fIoaA,1.3043247,103.9037455,8W33+PF Singapore,3.4,197,OPERATIONAL,shopping_mall,"1 Brooke Rd, Singapore 429979",Marine Parade,,8,2
+245,Mandaii Connection Between Camer,ChIJibfitkET2jER2Fecxzre5uI,1.4084457,103.7567832,CQ54+9P Singapore,3.8,37,OPERATIONAL,shopping_mall,"7 Mandai Link, Singapore 728664",Sungei Kadut,850,10,1
+246,Mandarin Gallery,ChIJiwOzdpEZ2jER8ZBANNMQhAw,1.302037,103.8362722,8R2P+RG Singapore,4.3,2414,OPERATIONAL,shopping_mall,"333A Orchard Rd, Singapore 238897",Orchard,920,19,19
+247,VIIO @ Balestier,ChIJj-81r5cj2jERciBegyh_20c,1.3268632,103.8459236,8RGW+P9 Singapore,4.2,28,OPERATIONAL,shopping_mall,"520 Balestier Rd, Singapore 329853",Novena,47990,12,2
+248,Esplanade Xchange,ChIJj1GfBaYZ2jER9VdyOe0KKcY,1.2933113,103.8563653,7VV4+8G Singapore,4,207,OPERATIONAL,shopping_mall,"1 Raffles Blvd, Singapore 039593",Downtown Core,3720,19,5
+249,Singapore Shopping Centre,ChIJj63eEZgZ2jERlsPDIn44YlY,1.2980833,103.8440979,7RXV+6J Singapore,3.6,212,OPERATIONAL,shopping_mall,"190 Clemenceau Ave, Singapore 239924",Museum,380,15,5
+250,Bugis Street,ChIJj7TW9LoZ2jERQgNlXkKhASQ,1.300599,103.854893,8V23+6X Singapore,4.3,15206,OPERATIONAL,shopping_mall,"3 New Bugis Street, Singapore 188867",Rochor,14590,12,12
+251,Kallang Wave Mall,ChIJjQcl90sY2jER0d9ui1pFp9s,1.3032243,103.8728714,8V3F+74 Singapore,4.2,7131,OPERATIONAL,shopping_mall,"1 Stadium Pl, Singapore 397628",Kallang,101210,3,1
+252,The Woodgrove,ChIJjT_ThNUT2jER5XX8cPcvRTw,1.4291643,103.7810781,CQHJ+MC Singapore,4.2,286,OPERATIONAL,shopping_mall,"30 Woodlands Ave 1, Singapore 739065",Woodlands,250290,1,0
+253,Fortune Centre,ChIJjZfJEvQZ2jERk-cl2XeNhlE,1.3004744,103.8520542,8V22+5R Singapore,4.1,118,OPERATIONAL,shopping_mall,"190 Middle Rd, Fortune Centre, Singapore 188979",Rochor,14590,10,14
+254,Sembawang Mart,ChIJk32Wj2ET2jERlCt-VO4D4IY,1.453728,103.8196335,FR39+FV Singapore,3.8,468,OPERATIONAL,shopping_mall,"511 Canberra Rd, Singapore 750511",Sembawang,76530,10,0
+255,Cluny Court,ChIJkQ-vvQYa2jERe6WZR9ehHXI,1.3226478,103.8142803,8RF7+3P Singapore,4.1,563,OPERATIONAL,shopping_mall,"501 Bukit Timah Rd, Singapore 259760",Tanglin,,3,5
+256,The Riverwalk,ChIJkVXIeQoZ2jERogeBOmGicvw,1.2749455,103.8434094,7RFV+X9 Singapore,4.1,512,OPERATIONAL,shopping_mall,"100 Tras St, 100AM #16-0, Singapore 079027",Downtown Core,3720,13,5
+257,Raffles City Shopping Centre,ChIJl6MA_AMZ2jERWANMx2T6CTk,1.2937585,103.8534331,7VV3+G9 Singapore,4.4,4555,OPERATIONAL,shopping_mall,"252 North Bridge Rd, Singapore 179103",Downtown Core,3720,20,6
+258,Joo Chiat Complex,ChIJlULslBAY2jERh1cJ-h8qH5Y,1.315681,103.8988707,8V8X+7G Singapore,4.1,1045,OPERATIONAL,shopping_mall,"1 Joo Chiat Rd, Singapore 420001",Geylang,116960,6,3
+259,Our Tampines Hub (North Plaza Entrance,ChIJlUXoVnY92jERNJyEe0Qo_Ds,1.3541097,103.9403594,9W3R+J4 Singapore,4.5,819,OPERATIONAL,shopping_mall,"Tampines Walk, Singapore",Tampines,261230,0,4
+260,China Square Central,ChIJlYNxjgwZ2jERpgzyrQepTAk,1.2837062,103.8465889,7RMW+FJ Singapore,3.9,958,OPERATIONAL,shopping_mall,"18 Cross St, Singapore 048423",Outram,22080,24,13
+261,Paragon,ChIJl_sOMpIZ2jERKgmuCf4FCs0,1.3038699,103.8357982,8R3P+G8 Singapore,4.4,10288,OPERATIONAL,shopping_mall,"Singapore, SG 290 Orchard Singapore Paragon#03-49 邮政编码: 238859",Orchard,920,20,20
+262,Tanglin Shopping Center,ChIJlaNqr-0Z2jER84VXgF37kD4,1.3062265,103.8266074,8R4G+FJ Singapore,3.4,16,OPERATIONAL,shopping_mall,"19 Tanglin Rd, #02-43B, Singapore 247909",Orchard,920,11,11
+263,Wilkie Edge,ChIJlxTWC7wZ2jERIkDaBnF-bv0,1.3022938,103.8496144,8R2X+WR Singapore,3.9,39,OPERATIONAL,shopping_mall,"8 Wilkie Rd, #01-22, Singapore 228095",Rochor,14590,12,10
+264,Free​fire​,ChIJlzLofSEb2jERYeF5iWfVzWI,1.2990363,103.7897678,7QXQ+JW Singapore,4.5,13,OPERATIONAL,shopping_mall,"1 Fusionopolis Link, Singapore",Queenstown,98050,9,0
+265,Yew Tee Square,ChIJm6Oexh0R2jERMVrJ75QsnUw,1.3980076,103.7468328,9PXW+6P Singapore,4.1,94,OPERATIONAL,shopping_mall,"624 Choa Chu Kang Street 62, Singapore 680624",Choa Chu Kang,174330,0,1
+266,Rivervale Mall,ChIJmQIrNAUW2jER6VgPAnslDhU,1.3919537,103.9047236,9WR3+QV Singapore,3.9,2285,OPERATIONAL,shopping_mall,"11 Rivervale Cres, Singapore 545082",Sengkang,206680,11,0
+267,Tekka Place,ChIJmWKUuaAZ2jERiT7O0hjSD3Q,1.3050631,103.8514261,8V42+2H Singapore,4.3,94,OPERATIONAL,shopping_mall,"2 Serangoon Rd, Singapore 218227",Rochor,14590,10,5
+268,Tanglin Mall,ChIJmXU4W4oZ2jERDul4uxP0pYc,1.3050606,103.8238701,8R4F+2G Singapore,4.1,2153,OPERATIONAL,shopping_mall,"163 Tanglin Rd, Singapore 247933",Orchard,920,9,4
+269,Djitsun Mall Bedok,ChIJmZY00kw92jERX8VUgpCxSkU,1.3262627,103.9294958,8WGH+GQ Singapore,4,585,OPERATIONAL,shopping_mall,"445 Bedok North Street 1, Singapore 469661",Bedok,289750,10,3
+270,Wheelock Place,ChIJmbzds40Z2jERALKuryaSSVI,1.3047145,103.8305375,8R3J+V6 Singapore,4.1,2610,OPERATIONAL,shopping_mall,"501 Orchard Rd, Singapore 238880",Orchard,920,12,16
+271,Eastwood Centre,ChIJn5UhBdQi2jERvap5_8H0aY4,1.3216364,103.9556659,8XC4+M7 Singapore,4,91,OPERATIONAL,shopping_mall,"20 Eastwood Rd, Singapore 486442",Bedok,289750,0,0
+272,Elegance Beauty & Slimming,ChIJn5yMmIwZ2jERiH9SZZJOguQ,1.27881,103.845292,7RHW+G4 Singapore,1.7,17,OPERATIONAL,shopping_mall,"10 Anson Rd, International Plaza, Singapore 079903",Downtown Core,3720,30,9
+273,Heritage Hub,ChIJnQMFeW8U2jERtZuKLnXC20o,1.429481,103.8360523,CRHP+QC Singapore,3.5,6,OPERATIONAL,shopping_mall,"930 Yishun Ave 2, #02 - 30, Singapore 769098",Yishun,201970,7,4
+274,Clarke Quay,ChIJnXwAOKAZ2jERAs-MHs1aDgI,1.2906024,103.8464742,7RRW+6H Singapore,4.5,33464,OPERATIONAL,shopping_mall,"3 River Valley Rd, Singapore 179024",Singapore River,2720,18,6
+275,Oasis Terraces,ChIJo7TzxRkV2jERIHtqiVMqOo4,1.4023703,103.9132022,CW27+W7 Singapore,4.2,1263,OPERATIONAL,shopping_mall,"681 Punggol Dr, Singapore 820681",Punggol,109750,7,0
+276,Delfi Orchard,ChIJo9rEsIwZ2jERlzp8CnVOPzE,1.307349,103.8283279,8R4H+W8 Singapore,3.9,483,OPERATIONAL,shopping_mall,"402 Orchard Rd, Singapore 238876",Orchard,920,9,11
+277,Millenia Walk,ChIJo_z7IqkZ2jERE1tkSZmYR8o,1.2928181,103.8598344,7VV5+4W Singapore,4.2,4456,OPERATIONAL,shopping_mall,"9 Raffles Blvd, Singapore 039596",Downtown Core,3720,18,3
+278,Square 2 @ Novena,ChIJoavrZ-cZ2jEROHbTzqYlVM4,1.3208322,103.8441474,8RCV+8M Singapore,4,2626,OPERATIONAL,shopping_mall,"10 Sinaran Dr, Singapore 307506",Novena,47990,15,5
+279,Excelsior Shopping Centre,ChIJofx2MKEZ2jERlaZeNQxPQt8,1.292045,103.8497894,7RRX+RW Singapore,3.7,271,OPERATIONAL,shopping_mall,"5 Coleman St, #03-27, Singapore 179805",Downtown Core,3720,13,6
+280,Game Resort,ChIJpYTOL30T2jERKt6IkL09OU4,1.4481651,103.8194747,CRX9+7Q Singapore,3.5,24,OPERATIONAL,shopping_mall,"30 Sembawang Dr, #02-04, Singapore 757713",Sembawang,76530,10,1
+281,Icon Village,ChIJpZh7TmsZ2jER8N5QwOBLdIw,1.2753013,103.8443917,7RGV+4Q Singapore,4.1,453,OPERATIONAL,shopping_mall,"12 Gopeng St, Singapore 078877",Downtown Core,3720,15,5
+282,Queensway Shopping Centre,ChIJpeuce8sb2jERad66-Hwmus8,1.2877846,103.8036027,7RQ3+4C Singapore,4.2,2113,OPERATIONAL,shopping_mall,"1 Queensway, Singapore 149053",Queenstown,98050,0,2
+283,Punggol Plaza,ChIJpwNkYAIW2jERFRkVIyvEAao,1.394228,103.913016,9WV7+M6 Singapore,3.8,2492,OPERATIONAL,shopping_mall,"168 Punggol Field, Singapore 820168",Punggol,109750,8,0
+284,Palais Renaissance,ChIJq5AW6IwZ2jERLFhlkwXcXes,1.3067391,103.829583,8R4H+MR Singapore,4.1,291,OPERATIONAL,shopping_mall,"390 Orchard Rd, Singapore 238871",Orchard,920,8,13
+285,The Midtown,ChIJq6pq5DYW2jERQThsvxpmytI,1.37047,103.8954838,9VCW+55 Singapore,3.7,79,OPERATIONAL,shopping_mall,"1187 Upper Serangoon Rd, Singapore 533971",Hougang,222310,0,2
+286,oldsowhat vintage shop,ChIJq6pq6JYZ2jERVqh_iOmKu6g,1.3035078,103.8617789,8V36+CP Singapore,5,9,OPERATIONAL,shopping_mall,"#03-33, Jln Sultan, Sultan Plaza, Singapore 199001",Kallang,101210,11,7
+287,Pagoda House,ChIJq6rONXMZ2jERJ7zYe9ZCWZU,1.283224,103.844439,7RMV+7Q Singapore,4.8,6,OPERATIONAL,shopping_mall,"51 Pagoda St, Singapore 059210",Outram,22080,30,15
+288,The Clementi Mall,ChIJq8UGJo4a2jER0ypiQDLiXpg,1.3146904,103.7640272,8Q77+VJ Singapore,4.1,6969,OPERATIONAL,shopping_mall,"3155 Commonwealth Ave W, Singapore 129588",Clementi,91630,11,2
+289,Shopee Building,ChIJqUDfaoYb2jERlXDIuUrGhSY,1.2924997,103.7864281,7QRP+XH Singapore,4.1,10,OPERATIONAL,shopping_mall,"5 Science Park Dr, Singapore",Queenstown,98050,10,0
+290,Scotts Square,ChIJqWqdfo0Z2jER7ly1IAAHMXE,1.3058788,103.8329554,8R4M+95 Singapore,4.2,1329,OPERATIONAL,shopping_mall,"6 Scotts Rd, Singapore 228209",Orchard,920,11,18
+291,Reservoir Shopping Center,ChIJqWqo1Vc92jERXCLUoxFLbuk,1.3328685,103.9145523,8WM7+4R Singapore,4,275,OPERATIONAL,shopping_mall,"631 Bedok Reservoir Rd, Singapore 470631",Bedok,289750,0,0
+292,MDP Industries,ChIJqys0chIZ2jERHa5mZ39Lmk8,1.2791856,103.8488437,7RHX+MG Singapore,3.5,12,OPERATIONAL,shopping_mall,"112 Robinson Rd, Singapore 068902",Downtown Core,3720,26,3
+293,Funan Mall,ChIJqz4D-d8Z2jERj4HjyaJtGvI,1.291321,103.8500832,7VR2+G2 Singapore,4.3,3163,OPERATIONAL,shopping_mall,"107 North Bridge Rd, Singapore 179105",Downtown Core,3720,15,6
+294,Viva Vista Shopping Mall,ChIJr1piWqUb2jERe2fPwBJvucU,1.279654,103.7861058,7QHP+VC Singapore,3.5,135,OPERATIONAL,shopping_mall,"3 South Buona Vista Rd, #B1-25 Viva Vista, Singapore 118136",Queenstown,98050,0,0
+295,Reservoir Village,ChIJr5Tkqls92jER2KMjYsfTz8M,1.337805,103.922602,8WQF+42 Singapore,4.2,299,OPERATIONAL,shopping_mall,"740 Bedok Reservoir Rd, Singapore 470740",Bedok,289750,0,0
+296,Balestier Point,ChIJr_prp48Z2jERgrHzdwdwbys,1.3227672,103.851969,8VF2+4Q Singapore,3.9,29,OPERATIONAL,shopping_mall,"279 Balestier Rd, Singapore 329727",Novena,47990,1,3
+297,Lot One Shoppers' Mall,ChIJs5CBlukR2jER-uyFhQ2NFbU,1.3851169,103.7449142,9PPV+2X Singapore,4,5475,OPERATIONAL,shopping_mall,"21 Choa Chu Kang Ave 4, Singapore 689812",Choa Chu Kang,174330,11,0
+298,Siglap Centre,ChIJsQIGh6Qi2jERe_QRQMSHGho,1.3124678,103.9232359,8W6F+X7 Singapore,3.6,522,OPERATIONAL,shopping_mall,"55 Siglap Rd, Singapore 455871",Bedok,289750,1,0
+299,MBS,ChIJsfkrkRwZ2jERGr_KpGzDJN8,1.2831625,103.8607379,7VM6+77 Singapore,4.6,529,OPERATIONAL,shopping_mall,"10 Bayfront Ave, Singapore 018956",Downtown Core,3720,15,1
+300,Tanglin Place,ChIJt10jr4sZ2jERo_UCZbIlPvE,1.3053098,103.8250961,8R4G+42 Singapore,3.7,42,OPERATIONAL,shopping_mall,"91 Tanglin Rd, Singapore 247918",Orchard,920,9,7
+301,Hong Lim Complex,ChIJtcJ9nwwZ2jER6VVZzSbA4bA,1.2844981,103.8458869,7RMW+Q9 Singapore,3.9,990,OPERATIONAL,shopping_mall,"175 South Bridge Rd, Singapore 058740",Outram,22080,24,13
+302,Goldhill Plaza Mall,ChIJtxtC6OcZ2jERqVnzRgkZXvo,1.3179851,103.8429051,8R9V+55 Singapore,3.6,170,OPERATIONAL,shopping_mall,"1 Goldhill Plaza, Singapore 308900",Novena,47990,18,5
+303,One Fullerton,ChIJu1_G5ggZ2jERTrdta7SO3A8,1.2861349,103.8539595,7VP3+FH Singapore,4.4,989,OPERATIONAL,shopping_mall,"1 Fullerton Rd, Singapore 049213",Downtown Core,3720,26,7
+304,Our Tampines Hub,ChIJu487hQ092jER1DJRGc0isoE,1.3529604,103.9403451,9W3R+54 Singapore,4.5,7466,OPERATIONAL,shopping_mall,"1 Tampines Walk, Singapore 528523",Tampines,261230,0,5
+305,The Oasis - Space for Rent,ChIJuUXzGrMb2jERGj-8yzwcIuQ,1.2877321,103.7903725,7QQR+34 Singapore,3.9,222,OPERATIONAL,shopping_mall,"87 Science Park Dr, Singapore 118260",Queenstown,98050,7,0
+306,The Promenade @ Pelikat,ChIJuVnrcbcX2jERVU3OQykaQo4,1.3551225,103.8875314,9V4Q+22 Singapore,3.7,285,OPERATIONAL,shopping_mall,"183 Jln Pelikat, Singapore 537643",Hougang,222310,10,0
+307,Katong Shopping Centre,ChIJuXIJwG0Y2jERSMkMTyIynBQ,1.303903,103.9011732,8W32+HF Singapore,3.6,1267,OPERATIONAL,shopping_mall,"865 Mountbatten Rd, Singapore 437844",Marine Parade,,10,1
+308,Tiong Bahru Plaza - Eating & Meeting Place,ChIJueYns70Z2jERNLF-jAOzAuU,1.2864763,103.8271508,7RPG+HV Singapore,4.2,17,OPERATIONAL,shopping_mall,"302 Tiong Bahru Rd, Singapore 168732",Bukit Merah,,10,1
+309,Hougang Green Shopping Mall,ChIJv3smaEEW2jERsPGCT2-DWq4,1.3796363,103.8882148,9VHQ+V7 Singapore,3.8,367,OPERATIONAL,shopping_mall,"21 Hougang Street 51, Singapore 538719",Hougang,222310,6,0
+310,Khatib Central,ChIJv6TxPRIU2jERTIL4lT3CLTI,1.4162387,103.8350761,CR8P+F2 Singapore,4.1,701,OPERATIONAL,shopping_mall,"848 Yishun Street 81, Singapore 760848",Yishun,201970,0,0
+311,100 AM,ChIJvUUHX2sZ2jERFw3Rybv_wwY,1.2750063,103.8435656,7RGV+2C Singapore,4,2891,OPERATIONAL,shopping_mall,"100 Tras St, Singapore 079027",Downtown Core,3720,13,5
+312,New World Centre,ChIJvUdpEJcZ2jERGnJMuEfYfIY,1.3073566,103.8575602,8V45+W2 Singapore,4,88,OPERATIONAL,shopping_mall,"1 Jln Berseh, Singapore 209037",Rochor,14590,17,3
+313,Simpang 4 Kadut,ChIJvZMicSIS2jER1R2JVmQ4wCc,1.4075223,103.7529759,CQ53+25 Singapore,3.9,8,OPERATIONAL,shopping_mall,"33 Sungei Kadut Ave, Singapore 729677",Sungei Kadut,850,10,1
+314,Market Square @ Downtown East,ChIJw3DaQ4w92jERiq4bkOKxA0g,1.3779962,103.9548834,9XH3+5X Singapore,4.3,234,OPERATIONAL,shopping_mall,Singapore,Pasir Ris,139890,4,2
+315,Jewel Changi Airport,ChIJw3l-FL4X2jERw2pScvHQCbg,1.3602082,103.9897593,9X6Q+3W Singapore,4.7,30675,OPERATIONAL,shopping_mall,"78 Airport Blvd, Singapore 819666",Changi,2530,2,0
+316,OUE Tower,ChIJw4L-2w4Z2jER4uL95POuIe0,1.2835014,103.8531358,7VM3+C7 Singapore,4.5,51,OPERATIONAL,shopping_mall,"60 Collyer Quay, Singapore 049322",Downtown Core,3720,20,9
+317,Telok Blangah Mall,ChIJw656L8Mb2jERzs3namlmYGs,1.2733062,103.8091982,7RF5+8M Singapore,3.1,11,OPERATIONAL,shopping_mall,"78B Telok Blangah Street 32, Singapore 102078",Bukit Merah,,0,0
+318,Harvey Norman,ChIJw8FKZawi2jERAztIcXvS-Og,1.3230793,103.9214304,8WFC+6H Singapore,4,400,OPERATIONAL,shopping_mall,"750B Chai Chee Road #01-01 to 06, #01-09 to 12, #02-02 to 06 Business Park, Singapore 469002",Bedok,289750,9,0
+319,Bugis+,ChIJwSNJ77oZ2jERuX8Bl5bU2tI,1.2995955,103.8542191,7VX3+RM Singapore,4.3,9159,OPERATIONAL,shopping_mall,"201 Victoria St, Singapore 188067",Rochor,14590,12,11
+320,Alexandra Retail Centre,ChIJwz3yHMEb2jERHclcbs5KL4A,1.2737935,103.8016048,7RF2+GJ Singapore,4,3393,OPERATIONAL,shopping_mall,"460 Alexandra Rd, Singapore 119963",Queenstown,98050,0,0
+321,E!Avenue @ Downtown East,ChIJx0IhAbQ92jERBHWmI_pJ3U4,1.3778367,103.9550988,9XH4+42 Singapore,4.3,205,OPERATIONAL,shopping_mall,"1 Pasir Ris Cl, Singapore 519599",Pasir Ris,139890,4,2
+322,Junction Nine,ChIJxy4SmmAV2jERyaGsjBsLwbc,1.4331427,103.8415583,CRMR+7J Singapore,3.9,659,OPERATIONAL,shopping_mall,"18 Yishun Ave 9, Singapore 768897",Yishun,201970,10,0
+323,Bugis Junction,ChIJxyqHo7oZ2jERNQtDRIuckqU,1.2988889,103.8555556,7VX4+H6 Singapore,4.4,9691,OPERATIONAL,shopping_mall,"200 Victoria St, Singapore 188021",Downtown Core,3720,17,8
+324,West Mall,ChIJxzbY1z4Q2jER7drH__TXbOI,1.3500142,103.7491801,9P2X+2M Singapore,4,5311,OPERATIONAL,shopping_mall,"1 Bukit Batok Central Link, Singapore 658713",Bukit Batok,139270,2,0
+325,Loyang Point,ChIJxzqK6cg92jERB-QagzzIEzs,1.3667277,103.9645679,9X87+MR Singapore,4.1,918,OPERATIONAL,shopping_mall,"258-259 Pasir Ris Street 21, Singapore 510259",Pasir Ris,139890,0,0
+326,The Atrium,ChIJy4WXYL0Z2jERbg8hQW40fYs,1.2995949,103.8458175,7RXW+R8 Singapore,4.2,138,OPERATIONAL,shopping_mall,"60A Orchard Rd, Singapore 238890",Museum,380,17,5
+327,Compass One,ChIJy5hMcg8X2jERZ88iA4l4aBY,1.3924343,103.8954118,9VRW+X5 Singapore,4.1,6943,OPERATIONAL,shopping_mall,"1 Sengkang Square, Singapore 545078",Sengkang,206680,10,1
+328,Havelock 2,ChIJyQ8DgWIZ2jERJyuRh581sco,1.2871839,103.8451368,7RPW+V3 Singapore,3.7,138,OPERATIONAL,shopping_mall,"2 Havelock Rd, Singapore 059763",Singapore River,2720,22,12
+329,KAP Mall,ChIJyWSEZTMX2jERY7_UfsKdFhI,1.3369981,103.7795531,8QPH+QR Singapore,4,72,OPERATIONAL,shopping_mall,"9 King Albert Park, Singapore",Bukit Timah,74470,0,2
+330,Paya Lebar Square,ChIJzxwZERgY2jER2FX37qmG49Q,1.3187541,103.8925678,8V9V+G2 Singapore,4.2,2289,OPERATIONAL,shopping_mall,"60 Paya Lebar Rd, Singapore 409051",Geylang,116960,19,4
